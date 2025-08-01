@@ -43,5 +43,5 @@ MIT License – Free to use and modify
 
 ## Creators (Collaboration Project)
 
-Catherine Q. Bugarin
+Catherine Q. Bugarin & 
 Jaspher Ikan Dela Cruz Samarista
